@@ -3,3 +3,4 @@
 
 export const SITE_TITLE = "Wynn's Blog";
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const AUTHOR_NAME = 'Wynn';
